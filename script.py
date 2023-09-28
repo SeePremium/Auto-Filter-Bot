@@ -1,11 +1,13 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hey {}
 
 You can call this as an Auto Filter Bot if you like :D
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+Bot is provide movies In supergroup add in Our Group As a admin 
+
+thnx....
 
 So no need to add filters for your files or movies from now on!
 
@@ -31,7 +33,7 @@ Bot will automatically search for your file and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @sunnyseee
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
